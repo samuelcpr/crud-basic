@@ -1,0 +1,11 @@
+{
+  "name": "front-end_crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuelcpr/crud-basic.git",
+  "author": "samuelcpr <samuelcpr464@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^8.2.2"
+  }
+}
